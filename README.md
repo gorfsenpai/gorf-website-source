@@ -1,2 +1,3 @@
-# gorf-website-source
-Source code for my Website
+# Gorfsenpai's Website (Source Code)
+
+used as source on [INSERT WEBSITE NAME HERE]
